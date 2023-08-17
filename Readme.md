@@ -1,4 +1,4 @@
-# Progrmaación Orientada Objetos y Laboratorio
+# Programación Orientada Objetos y Laboratorio
 
 - Nombre : Miguel esaú Rivera Román
 
