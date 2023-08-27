@@ -1,6 +1,6 @@
 # Programación Orientada Objetos y Laboratorio
 
-- Nombre : Miguel esaú Rivera Román
+- Nombre : Miguel Esaú Rivera Román
 
 ## Actividad 1
 
