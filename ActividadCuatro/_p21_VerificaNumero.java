@@ -1,4 +1,7 @@
 // Verifica si un número es postivo, negativo o cero
+//Miguel Esaú Rivera Román
+//29-08-2023 - Versión 1.0
+
 import java.util.Scanner;
 public class _p21_VerificaNumero {
 public static void main(String[] args) {

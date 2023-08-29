@@ -1,4 +1,7 @@
 // Calcular la paga de un trabajador, las horas extra se pagan al doble
+//Miguel Esaú Rivera Román
+//29-08-2023 - Versión 1.0
+
 import java.util.Scanner;
 public class _p24_PagaTrabajadorv2 {
 public static void main(String[] args) {

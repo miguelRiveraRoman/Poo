@@ -1,3 +1,7 @@
+// Convertir temperatura de grados celcius a farenheit y viceversa
+//Miguel Esaú Rivera Román
+//29-08-2023 - Versión 1.0
+
 import java.util.Scanner;
 
 public class _p23_Convertirtemperatura {
@@ -22,10 +26,10 @@ public class _p23_Convertirtemperatura {
 
         }
         else if ( op == 'C'){
-            System.out.println("Dame la temperatura en Farenheit ");
+            System.out.println("Dame la temperatura en Centigrados ");
             temp = obj.nextFloat();
             res = (temp * 9/5) + 32;
-            System.out.printf("\n %f grados farenheit equivale a %f grados centrigrados ", temp,res);
+            System.out.printf("\n %f grados Centigrados equivale a %f grados centrigrados ", temp,res);
 
         }
         else

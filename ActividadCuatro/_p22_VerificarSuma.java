@@ -1,3 +1,7 @@
+//Programa que verifica que la suma de dos numeros se igual a un tercero
+//Miguel Esaú Rivera Román
+//29-08-2023 - Versión 1.0
+
 import java.util.Scanner;
 
 public class _p22_VerificarSuma {
