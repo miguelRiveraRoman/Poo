@@ -18,7 +18,7 @@
 - _p09_DividirEnCifras
 
 
-## Practica 1
+### Practica 1
 
 - _p10_HipotenusaTriangulo
 - _p11_CalcularAngulo
@@ -54,3 +54,12 @@
 - _p30_DiaSemana
 - _p31_NumerosRomanos
 - _p32_PagoEstacionamiento
+
+### Practica 2
+
+- p33_numeros_consecutivos
+- p34_numero_mayor
+- p35_continentes_mundo
+- p36_compra_pizza
+- p37_calculo_notas
+- p38_aceptar_estudiante-v2
