@@ -63,3 +63,11 @@
 - p36_compra_pizza
 - p37_calculo_notas
 - p38_aceptar_estudiante-v2
+
+## Actividad 7
+
+- _p39_Numeros1a100
+- _p40_Numeros100a1
+- _p41_ProcesaCalificaciones
+- _p42_TablaMultiplicar
+- _p43_ConteoNumeros
