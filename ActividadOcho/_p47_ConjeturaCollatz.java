@@ -1,4 +1,4 @@
-// Imprime tabla de conversión de peso a dolar
+// Conjetura de collatz
 //Miguel Esaú Rivera Román 
 //12-09-23      Version 1.0-0
 
