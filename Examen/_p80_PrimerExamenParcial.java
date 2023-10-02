@@ -1,6 +1,3 @@
-//Primer Examen Parcial
-//Miguel Esaú Rivera Román
-//25-09-23       Version 1.0.0
 
 import java.util.Scanner;
 
