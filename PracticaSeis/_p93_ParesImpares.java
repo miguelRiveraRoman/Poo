@@ -1,3 +1,7 @@
+// Muestra un arreglo de numeros, sus numeros pares e impares
+// Miguel Esaú Rivera Román
+// 09-10-23         Versión 1.0.0
+
 import java.util.Random;
 
 public class _p93_ParesImpares {
