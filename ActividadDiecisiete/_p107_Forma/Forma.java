@@ -1,8 +1,8 @@
 public abstract class Forma {
     private String Color;
+    
     public Forma(String color) {
-
-    Color = color;
+        Color = color;
     }
 
     public String getColor() {
