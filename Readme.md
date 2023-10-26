@@ -174,7 +174,7 @@
 - _p104_PuntoCirculo
 - _p105_PuntoTriangulo
 
-### Actividad 16
+### Actividad 17
 - _p106_Persona
 - _p107_Forma
 
@@ -182,7 +182,7 @@
 - _p108_Vehiculo
 - _p109_FormaV2
 
-### Actividad 17
+### Actividad 18
 - _p110_CuentaBancariaV1 
 
 
@@ -190,3 +190,14 @@
 
 ## Examen 2
 - _p113_SegundoExamenParcial
+
+
+### Actividad 20
+- _p114_Animal
+- _p115_Telefono
+- _p116_Juego
+- _p117_FiguraGeometrica
+
+### Actividad 21
+- _p118_Calculadora
+- _p119_Organismo
